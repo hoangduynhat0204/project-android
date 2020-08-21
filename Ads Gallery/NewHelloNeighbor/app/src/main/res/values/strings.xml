@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Best Neighbor\'s Helper 2019</string>
+    <string name="detail_image_description">test</string>
+    <string name="home_name">Best Neighbor\'s Helper 2019</string>
+    <string name="admob_appid">ca-app-pub-4396248557516712~7353641338</string>
+    <string name="admob_banner">ca-app-pub-4396248557516712/1909742969</string>
+    <string name="admob_interstial">ca-app-pub-4396248557516712/9568741132</string>
+    <string name="ad_facebook_app_banner">398686020680147_398687284013354</string>
+    <string name="ad_facebook_app_interstitial">398686020680147_398687130680036</string>
+</resources>
